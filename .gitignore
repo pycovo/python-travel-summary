@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Personal trip input and generated summaries
+my_trip.json
+output/
+output-*/
+itinerary.csv
+itinerary.md

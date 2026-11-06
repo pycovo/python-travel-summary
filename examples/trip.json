@@ -1,0 +1,11 @@
+{
+  "destination": "成都",
+  "departure_date": "2027-05-01",
+  "budget": "1500.00",
+  "currency": "CNY",
+  "attractions": [
+    "四川博物院",
+    "人民公园",
+    "宽窄巷子"
+  ]
+}
